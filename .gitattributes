@@ -1,0 +1,8 @@
+# Tell GitHub Linguist to focus on JS/JSX
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+
+# Ignore CSS so it doesn't dominate language stats
+*.css linguist-detectable=false

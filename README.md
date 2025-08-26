@@ -3,13 +3,16 @@
 A beautiful, modern note-taking application built with React and Vite. Capture your thoughts, organize your ideas, and keep your notes beautifully organized with this elegant web app.
 
 ### Desktop View
-![Desktop Screenshot](./public/desktop.png)
+
+![Desktop Screenshot](./public/screenshots/desktop.png)
 
 ### Add a New Note
-![Add Note Screenshot](./public/add-note.png)
+
+![Add Note Screenshot](./public/screenshots/add-note.png)
 
 ### Mobile View
-![Mobile Screenshot](./public/mobile.png)
+
+![Mobile Screenshot](./public/screenshots/mobile.png)
 
 ## ✨ Features
 
@@ -24,7 +27,6 @@ A beautiful, modern note-taking application built with React and Vite. Capture y
 - **🌙 Glass Morphism**: Modern backdrop blur effects
 - **📝 Rich Text Support**: Support for multi-line notes
 - **🗑️ Easy Deletion**: One-click note removal
-
 
 ## 🛠️ Built With
 
